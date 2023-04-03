@@ -20,7 +20,7 @@ Once the initial DSL was solidified, I implemented the backend to make it all wo
 
 My last task this week was to write up a game with just connected rooms in my DSL (done in a file named adventure.game), then implement the parsing and linking with my backend. After some searching, I decided to use the pyparsing package because it is robust and well-documented. Using that package I was able to succesfully parse my external DSL code and do some additional processing to interface with my backend.
 
-So now my basic game works! You can run 'python3 parseGame.py adventure.game' and it will parse the game from the raw DSL syntax and start the engine so you can play it in the terminal. Feel free to do that in the current-code/week-1 folder (and poke around at the underlying code if you wish).
+So now my basic game works! You can run 'python3 parseGame.py adventure.game' and it will parse the game from the raw DSL syntax and start the engine so you can play it in the terminal. Feel free to do that if you clone my artifact repo (and poke around at the underlying code if you wish).
 
 
 
