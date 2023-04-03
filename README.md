@@ -34,7 +34,7 @@ repo to your own account (and make it private), if you want.
 
 Edit this document to add a link to your artifact repo, below:
 
-[**Artifact repo**](<link-goes-here>)
+[**Artifact repo**](https://github.com/hmc-cs111-spring2023/artifact-cgcouto.git)
 
 ## Notebooks
 
