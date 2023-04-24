@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/C7Q-SLwm)
 # DSL Project
 
 The main purpose of this repository is to hold instructions and notebook entries for the
@@ -33,7 +34,7 @@ repo to your own account (and make it private), if you want.
 
 Edit this document to add a link to your artifact repo, below:
 
-[**Artifact repo**](<link-goes-here>)
+[**Artifact repo**](https://github.com/hmc-cs111-spring2023/artifact-cgcouto.git)
 
 ## Notebooks
 
